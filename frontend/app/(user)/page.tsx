@@ -220,7 +220,7 @@ export default function Home() {
             Surya & Trisna
           </h1>
           <p className="text-center font-tangerine text-[24px] md:text-[28px] lg:mt-4">
-            19&nbsp;&nbsp;&nbsp;--&nbsp;&nbsp;&nbsp;10&nbsp;&nbsp;&nbsp;--&nbsp;&nbsp;&nbsp;2026
+            16&nbsp;&nbsp;&nbsp;--&nbsp;&nbsp;&nbsp;10&nbsp;&nbsp;&nbsp;--&nbsp;&nbsp;&nbsp;2026
           </p>
         </div>
         <div className="overlay bg-[#2c221e90] w-full h-full absolute inset-0 top-0 z-10" />
@@ -312,7 +312,7 @@ export default function Home() {
           <div className="w-screen h-[1px] bg-background"></div>
           <p className="text-[12px] md:text-[18px]">Senin, 16 Oktober 2026</p>
           <p className="text-[12px] md:text-[18px]">
-            Waktu: 08:00 WITA s/d selesai
+            Waktu: 10:00 WITA s/d selesai
           </p>
           <p className="text-[12px] md:text-[18px]">Denpasar, Bali</p>
           <Link
@@ -321,7 +321,7 @@ export default function Home() {
           >
             Peta Lokasi
           </Link>
-          <Countdown targetDate="2026-10-16T08:00:00" />
+          <Countdown targetDate="2026-10-16T10:00:00" />
           <div className="w-screen h-[1px] bg-background mt-4"></div>
         </div>
         <div className=" text-center px-4 md:px-32">
