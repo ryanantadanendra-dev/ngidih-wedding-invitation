@@ -314,9 +314,11 @@ export default function Home() {
           <p className="text-[12px] md:text-[18px]">
             Waktu: 10:00 WITA s/d selesai
           </p>
-          <p className="text-[12px] md:text-[18px]">Denpasar, Bali</p>
+          <p className="text-[12px] md:text-[18px]">
+            Jl. Tukad Buaji GG. Teratai Jingga No. 34X
+          </p>
           <Link
-            href="https://maps.app.goo.gl/jQiTHRKkRfxiFRHG9"
+            href="https://maps.app.goo.gl/ufChvfXnJbc859Tg9"
             className="block w-44 mx-auto px-4 py-1 border border-background rounded-lg text-[12px]"
           >
             Peta Lokasi
