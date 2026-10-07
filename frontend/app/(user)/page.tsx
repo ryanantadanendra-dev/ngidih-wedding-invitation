@@ -310,7 +310,7 @@ export default function Home() {
         </div>
         <div className="text-background text-center grid grid-cols-1 gap-3 text-center">
           <div className="w-screen h-[1px] bg-background"></div>
-          <p className="text-[12px] md:text-[18px]">Senin, 16 Oktober 2026</p>
+          <p className="text-[12px] md:text-[18px]">Jumat, 16 Oktober 2026</p>
           <p className="text-[12px] md:text-[18px]">
             Waktu: 10:00 WITA s/d selesai
           </p>
