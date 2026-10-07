@@ -90,7 +90,7 @@ export default function RSVPForm() {
               className="w-full text-background appearance-none rounded-xl border border-background bg-transparent py-3 px-4 pr-10 text-[14px] focus:outline-none"
             >
               {[1, 2, 3, 4, 5].map((n) => (
-                <option key={n} value={n} className="text-background">
+                <option key={n} value={n} className="text-heading">
                   {n}
                 </option>
               ))}
